@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.ccbac16ce76b4cbc849a722e783b7f58?rik=RXiGHY5g%2bSDwuw&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20130202022304%2fstarwars%2fimages%2fe%2fed%2fCR70_alderaan.png&ehk=LNBnzEn76ORyCfjluLWPyu6C7XYm8h7gMfYwFbNrmJ8%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white;
+    text-align: center;
+
+}
+
+h2{
+    font-size: 50pt;   
+}
+
+button{
+    width: 350px;
+    height: 125px;
+    font-size: 35pt;
+    border: black solid 5px;
+}
+
+
